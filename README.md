@@ -69,9 +69,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=shipanmazumder&show_icons=true&theme=radical" height="190px" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shipanmazumder&layout=compact&theme=radical" height="190px" /></td>
   </tr>
-  <tr>
-    <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com?user=shipanmazumder&theme=radical" height="190px"/></td>
-  </tr>
 </table>
 
 ---
