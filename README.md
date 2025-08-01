@@ -18,7 +18,7 @@
 - 🤝 Open to collaboration on **DevOps and System Design projects**
 - 💬 Ask me about **NestJS, MongoDB, Docker, or Redis**
 - 📫 Reach me at **shipanmazumder@gmail.com**
-- 📄 My [Resume](https://drive.google.com/file/d/1scy6iDBfZh6dvnU039KfKOhWQK_or8jt/view)
+- 📄 My [Resume](https://docs.google.com/document/d/1jncEZmvPAzcJQJ-n4_sxOLfSu4S-_PL35-v5BMMEZWY/edit?usp=sharing)
 
 ---
 
